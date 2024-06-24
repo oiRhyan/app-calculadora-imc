@@ -31,7 +31,7 @@ Cálculo do IMC: Na nova Activity, uma função específica realiza a verificaç
 
 Com essa estrutura, a aplicação garante uma interação fluida e eficiente com o usuário, ao mesmo tempo em que mantém um código limpo e bem organizado.
 <div>
- <img src="jokenpo (1).gif">
+ <img src="preview.gif">
 </div>
 
 
